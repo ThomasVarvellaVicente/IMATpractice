@@ -17,7 +17,6 @@
   </header>
 
   <main>
-    <!-- Subject Filter -->
     <section id="subject-controls" class="mode-section">
       <label for="subject-select">Choose a Subject:</label>
       <select id="subject-select">
@@ -25,19 +24,17 @@
         <option value="chemistry">Chemistry</option>
         <option value="logic">Logic</option>
         <option value="math">Math</option>
-        <option value="physics">Physics</option>
         <option value="gk">General Knowledge</option>
       </select>
       <button id="get-subject-question">Start</button>
     </section>
 
-    <!-- Full Exam Controls -->
     <section id="exam-controls" class="mode-section">
       <button id="start-full-exam">Start Full Exam</button>
     </section>
 
-    <!-- Question Display Area -->
     <section id="question-container">
+      <div id="question-meta"></div>
       <p id="question-text"></p>
       <ul id="answers-list"></ul>
       <p id="feedback"></p>
