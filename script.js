@@ -1688,6 +1688,853 @@ const imatQuestions = [
       "0"
     ],
     correctAnswer: "Q₁"
+  },
+  {
+    id: 121,
+    year: 2024,
+    subject: "logical reasoning",
+    question: "Which one of the following best expresses the main conclusion of the above argument?\n\nWe have two standard forms of treatment for depression: antidepressant medication and psychological therapy. But over the last 30 years these treatments have not reduced either the prevalence of, or the disability caused by, depression: it is likely to remain a significant and largely intractable mental health problem. There are three key issues here: access, compliance and relapse. Access to treatment tends to be restricted to the minority of people who live in urban areas of wealthy countries. But even those who have access to care do not always comply with treatment recommendations – for many understandable reasons. To compound all this, high numbers of people who respond well to treatment later relapse: this is one of the reasons why depression remains so widespread.",
+    choices: [
+      "Depression is likely to remain a significant and largely intractable mental health problem.",
+      "Over the past 30 years, treatments have not reduced the prevalence of or disability caused by depression.",
+      "One of the reasons why depression remains so widespread is the high rate of relapse.",
+      "Access, compliance and relapse are the three key issues in the treatment of depression.",
+      "Access to treatment for depression tends to be restricted to people in urban areas of wealthy countries."
+    ],
+    correctAnswer: "Depression is likely to remain a significant and largely intractable mental health problem."
+  },
+  {
+    id: 122,
+    year: 2024,
+    subject: "logical reasoning",
+    question: "Which one of the following is an underlying assumption of the above argument?\n\nIn many countries of the world, religious and political institutions have been the main providers of mass education for children. Their motivation for founding schools has, of course, been to promote their own ideologies and recruit followers. But children at school are vulnerable and impressionable, and therefore need to be protected from having ideologies imposed upon them. Education is fundamentally incompatible with indoctrination and the promotion of particular worldviews. So the education provided in schools should be based on scientific atheism rather than religion or politics.",
+    choices: [
+      "Scientific atheism is not an ideology.",
+      "Some governments cannot afford to fund universal education.",
+      "Everyone needs a belief system to guide them in life.",
+      "The aim of education is to offer a vision of life.",
+      "Many adults reject the beliefs they were taught at school."
+    ],
+    correctAnswer: "Scientific atheism is not an ideology."
+  },
+  {
+    id: 123,
+    year: 2024,
+    subject: "logical reasoning",
+    question: "Which one of the following is the best statement of the flaw in the above argument?\n\nWhat is the secret of success? The question is as old as philosophy itself. The Greeks argued that it boiled down to the possession and exercise of certain character traits, such as generosity and bravery. But new research emerging from social psychology suggests you have to be self-confident to be successful. The study, involving over 200 successful people from all walks of life, comprised detailed interviews and the observation of mental and physical problem solving. The research found that all of the participants had a strong belief in their own abilities and persevered in the face of challenges because they thought they could do it. If you want to be successful, then, you must have faith in your own abilities.",
+    choices: [
+      "It assumes that self-confidence is responsible for success, and not vice versa.",
+      "It relies on different senses of the expression ‘self-confidence’.",
+      "It ignores the significance of other factors, such as luck.",
+      "It assumes that everyone can become self-confident.",
+      "It justifies a claim on the basis of how things were in the past."
+    ],
+    correctAnswer: "It assumes that self-confidence is responsible for success, and not vice versa."
+  },
+  {
+    id: 124,
+    year: 2024,
+    subject: "logical reasoning",
+    question: "Which one of the following most closely parallels the reasoning used in the above argument?\n\nThe presence of a mind requires the presence of self-consciousness. Machines do not have self-consciousness, therefore machines do not have minds.",
+    choices: [
+      "To count as an emotion, a mental state needs to have representational content. Depression does not have representational content, therefore depression is not an emotion.",
+      "The morally best option is that which maximises benefit. Larger charities are able to provide the most benefit from donations, therefore it is morally best to choose larger charities to donate to.",
+      "There is no obligation to keep promises to someone after they have died, since the virtue of keeping promises is to promote the promisee’s wellbeing, and their capacity for wellbeing ceases upon death.",
+      "Trust and reliance are not the same thing, because trust is a mental attitude, whereas reliance is not.",
+      "Only true beliefs can be knowledge. My belief that the world is spherical is true, therefore I know that the world is spherical."
+    ],
+    correctAnswer: "To count as an emotion, a mental state needs to have representational content. Depression does not have representational content, therefore depression is not an emotion."
+  },
+  {
+    id: 125,
+    year: 2024,
+    subject: "logical reasoning",
+    question: "Which one of the following best illustrates the principle used in the above argument?\n\nIndividuals accept deliberate harm being done to human beings and other living creatures for a variety of reasons. Whether it is self-defence, the need to kill animals for food, or some other reason, many – if not most – people who consider themselves to have ‘good morals’ will generally agree to the intentional killing of other beings if there is adequate justification for doing so. However, one cannot justify killing without complete knowledge of what those who are killed go through. Thus, people who choose to eat meat should find out about how the animals they consume are reared and killed. Otherwise, people cannot truly accept full responsibility for their decision-making.",
+    choices: [
+      "Citizens who support imposing the death penalty in some criminal cases should educate themselves about the procedures used to administer it.",
+      "A lawyer prosecuting an individual for murder should be aware of any serious difficulties in the life of the defendant in the years leading up to the crime.",
+      "Scientists who use dead animal specimens for the purpose of an experiment should be certain there are no alternative research methods available.",
+      "Farmers who need to kill crop-eating insects should find out which pesticides are the least harmful to other kinds of wildlife.",
+      "A police officer who accidentally kills someone in the line of duty should be willing to tell the victim’s family about the circumstances of the death."
+    ],
+    correctAnswer: "Citizens who support imposing the death penalty in some criminal cases should educate themselves about the procedures used to administer it."
+  },
+  {
+    id: 126,
+    year: 2024,
+    subject: "logical reasoning",
+    question: "Six sacks each consist of one kind of fruit: apples, oranges or limes.\n\nThe weights of the sacks are:\n8 kg, 13 kg, 17 kg, 18 kg, 22 kg, 24 kg\n\nThe total weight of all the apples is twice the total weight of all the limes, and there is only one sack of oranges.\n\nWhat is the weight of the sack of oranges?",
+    choices: [
+      "24 kg",
+      "17 kg",
+      "18 kg",
+      "22 kg",
+      "13 kg"
+    ],
+    correctAnswer: "17 kg"
+  },
+  {
+    id: 127,
+    year: 2024,
+    subject: "logical reasoning",
+    question: "There are 10 students in a class and they like visiting each other. A visit means that one student visits the home of another student. We know that each student in the class has visited the same number of students. No two students in the class have both visited each other.\n\nWhat is the maximum number of students that a student in this class could have visited?",
+    choices: [
+      "4",
+      "2",
+      "5",
+      "8",
+      "9"
+    ],
+    correctAnswer: "5"
+  },
+  {
+    id: 128,
+    year: 2022,
+    subject: "logical reasoning",
+    question: "I am planning a one-way flight and I can fly with one of the following five companies. I have two bags, one of size 52 × 40 × 22 cm and one of size 40 × 30 × 20 cm. I am happy to take either bag with me. I need to have priority boarding.\n\nWhich company should I choose if I wish to spend as little as possible?",
+    choices: [
+      "WassAir",
+      "BritAir",
+      "EasAir",
+      "TowAir",
+      "MistAir"
+    ],
+    correctAnswer: "WassAir"
+  },
+  {
+    id: 129,
+    year: 2022,
+    subject: "logical reasoning",
+    question: "Volunteers for a coastal conservation charity have cleaned beaches since the late 1990s and have recorded the number of items collected. Three items found on the beach by volunteers which have seen an increase are shown below in the table.\n\nWhich one of the following graphs could show the percentage increase in items collected between 1997 and 2017?",
+    choices: [
+      "Graph A",
+      "Graph B",
+      "Graph C",
+      "Graph D",
+      "Graph E"
+    ],
+    correctAnswer: "Graph B"
+  },
+  {
+    id: 130,
+    year: 2022,
+    subject: "logical reasoning",
+    question: "On a volcanic island, scientists plan to install sensors to monitor ground motions and predict volcanic activity. The outline of the island is shown in a grid, with a central shaded volcano area. Sensors cannot be installed on the volcano, but can be on other squares, covering the square they are on and adjacent ones.\n\nWhat is the minimum number of sensors that need to be installed to take measurements of the entire area of the island (excluding the volcano)?",
+    choices: [
+      "20",
+      "10",
+      "16",
+      "6",
+      "22"
+    ],
+    correctAnswer: "10"
+  },
+  {
+    id: 131,
+    year: 2022,
+    subject: "general knowledge",
+    question: "Which one of the following spoke to the United Nations on 12th July 2013 to call for a worldwide access to education?",
+    choices: [
+      "Malala Yousafzai",
+      "Aung San Suu Kyi",
+      "Benazir Bhutto",
+      "Kofi Annan",
+      "Barack Obama"
+    ],
+    correctAnswer: "Malala Yousafzai"
+  },
+  {
+    id: 132,
+    year: 2022,
+    subject: "general knowledge",
+    question: "Which of the following dancing traditions is NOT correctly matched to its place of origin?",
+    choices: [
+      "Flamenco – Argentina",
+      "Bharatnatyam – India",
+      "Samba – Brazil",
+      "Mambo – Cuba",
+      "Haka – New Zealand"
+    ],
+    correctAnswer: "Flamenco – Argentina"
+  },
+  {
+    id: 133,
+    year: 2022,
+    subject: "general knowledge",
+    question: "Which one of the following novels was awarded the Pulitzer Prize for Fiction in 1953?",
+    choices: [
+      "The Old Man and the Sea by Ernest Hemingway",
+      "The Great Gatsby by Francis Scott Fitzgerald",
+      "The Catcher in the Rye by J. D. Salinger",
+      "On the Road by Jack Kerouac",
+      "Moby Dick by Herman Melville"
+    ],
+    correctAnswer: "The Old Man and the Sea by Ernest Hemingway"
+  },
+  {
+    id: 134,
+    year: 2022,
+    subject: "general knowledge",
+    question: "Which of the following European languages is NOT categorised as a Slavic language?",
+    choices: [
+      "Lithuanian",
+      "Slovene",
+      "Polish",
+      "Ukrainian",
+      "Czech"
+    ],
+    correctAnswer: "Lithuanian"
+  },
+  {
+    id: 135,
+    year: 2022,
+    subject: "general knowledge",
+    question: "Which of the following philosophers is considered one of the founders of analytic philosophy?",
+    choices: [
+      "Bertrand Russell",
+      "Gottfried Wilhelm Leibniz",
+      "Francis Bacon",
+      "Michel Foucault",
+      "Hans Jonas"
+    ],
+    correctAnswer: "Bertrand Russell"
+  },
+  {
+    id: 136,
+    year: 2022,
+    subject: "general knowledge",
+    question: "Amongst the following modern-day countries, which never had any region form part of the Roman Empire?",
+    choices: [
+      "Denmark",
+      "Portugal",
+      "Slovenia",
+      "Belgium",
+      "Egypt"
+    ],
+    correctAnswer: "Denmark"
+  },
+  {
+    id: 137,
+    year: 2022,
+    subject: "general knowledge",
+    question: "Which one of the following chemical elements was discovered by Marie and Pierre Curie?",
+    choices: [
+      "Polonium",
+      "Hydrogen",
+      "Uranium",
+      "Nitrogen",
+      "Boron"
+    ],
+    correctAnswer: "Polonium"
+  },
+  {
+    id: 138,
+    year: 2022,
+    subject: "general knowledge",
+    question: "Which of the following European countries does NOT recognise a denomination of Christianity as its state religion?",
+    choices: [
+      "Spain",
+      "England",
+      "Malta",
+      "Greece",
+      "Denmark"
+    ],
+    correctAnswer: "Spain"
+  },
+  {
+    id: 139,
+    year: 2022,
+    subject: "general knowledge",
+    question: "Which one of the following succeeded Jean-Claude Juncker as President of the European Commission on 1 December 2019?",
+    choices: [
+      "Ursula von der Leyen",
+      "José Manuel Barroso",
+      "Christine Lagarde",
+      "Mario Draghi",
+      "Alexis Tsipras"
+    ],
+    correctAnswer: "Ursula von der Leyen"
+  },
+  {
+    id: 140,
+    year: 2022,
+    subject: "general knowledge",
+    question: "Which of the following countries never had a female prime minister in the 20th century?",
+    choices: [
+      "Sweden",
+      "Israel",
+      "India",
+      "United Kingdom",
+      "Pakistan"
+    ],
+    correctAnswer: "Sweden"
+  },
+  {
+    id: 141,
+    year: 2022,
+    subject: "biology",
+    question: "Which diagram shows the correct hydrogen bonds between bases of a section of DNA?",
+    choices: [
+      "Diagram A",
+      "Diagram B",
+      "Diagram C",
+      "Diagram D",
+      "Diagram E"
+    ],
+    correctAnswer: "Diagram D"
+  },
+  {
+    id: 142,
+    year: 2022,
+    subject: "biology",
+    question: "The effect of temperature and pH on the activity of each of the enzymes P and Q was investigated...\nUsing this information, which graph could show the results from one of these investigations?",
+    choices: [
+      "Graph A",
+      "Graph B",
+      "Graph C",
+      "Graph D",
+      "Graph E"
+    ],
+    correctAnswer: "Graph C"
+  },
+  {
+    id: 143,
+    year: 2022,
+    subject: "biology",
+    question: "Which of the following could be found within a molecule that has just been made by transcription in a healthy human pancreatic cell?\n1. adenine\n2. peptide bonds\n3. phosphodiester bonds\n4. ribose",
+    choices: [
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    correctAnswer: "1, 3 and 4 only"
+  },
+  {
+    id: 144,
+    year: 2022,
+    subject: "biology",
+    question: "The following diagram shows a U-tube at the start of an experiment... Which option correctly identifies what happens within the first few seconds?",
+    choices: [
+      "There will be net movement of maltose from side A to B.",
+      "There will be net movement of sucrose from side A to B.",
+      "There will be net movement of glucose from side B to A.",
+      "There will be no net movement of sugars.",
+      "Solution level will increase in side B and decrease in side A."
+    ],
+    correctAnswer: "Solution level will increase in side B and decrease in side A."
+  },
+  {
+    id: 145,
+    year: 2022,
+    subject: "biology",
+    question: "Glycoproteins are formed from amino acids and carbohydrates. What is the order in which organelles are used to make membrane-associated glycoproteins?",
+    choices: [
+      "rough endoplasmic reticulum → vesicles → Golgi apparatus",
+      "rough endoplasmic reticulum → Golgi apparatus → smooth endoplasmic reticulum",
+      "lysosomes → rough endoplasmic reticulum → Golgi apparatus",
+      "Golgi apparatus → vesicles → rough endoplasmic reticulum",
+      "Golgi apparatus → lysosomes → smooth endoplasmic reticulum"
+    ],
+    correctAnswer: "rough endoplasmic reticulum → vesicles → Golgi apparatus"
+  },
+  {
+    id: 139,
+    year: 2022,
+    subject: "biology",
+    question: "Which row shows the site of alcohol fermentation in yeast and the site of lactic acid fermentation in human muscle cells?",
+    choices: [
+      "row 3",
+      "row 2",
+      "row 1",
+      "row 4",
+      "row 5"
+    ],
+    correctAnswer: "row 3"
+  },
+  {
+    id: 140,
+    year: 2022,
+    subject: "biology",
+    question: "Which of the following statements about photosynthesis is/are correct?\n1 The site of the light-dependent reactions is the thylakoids and the products of these reactions include ATP and oxygen.\n2 The site of the light-independent reactions is the stroma and the products of these reactions include carbohydrates and carbon dioxide.\n3 Chlorophyll that is embedded in the chloroplast outer membrane uses light to split water molecules.",
+    choices: [
+      "1 only",
+      "1, 2 and 3",
+      "3 only",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    correctAnswer: "1 and 2 only"
+  },
+  {
+    id: 141,
+    year: 2022,
+    subject: "biology",
+    question: "The photomicrograph shows a section of a plant root tip with cells showing different stages of the cell cycle. Five of the cells have been labelled.\n\nWhich cell (1–5) shows anaphase?",
+    choices: [
+      "2",
+      "1",
+      "3",
+      "4",
+      "5"
+    ],
+    correctAnswer: "2"
+  },
+  {
+    id: 142,
+    year: 2022,
+    subject: "biology",
+    question: "A male child has haemophilia. Neither parent has the condition. The parents have a second child.\n\nWhich of the following statements could be correct about this family?\n1 There is a 25% chance that the second child is a boy with haemophilia.\n2 There is a 75% chance that the second child does not show the condition.\n3 There is a 50% chance that the mother is a carrier.\n\n[Assume no other mutations.]",
+    choices: [
+      "1 and 2 only",
+      "2 only",
+      "3 only",
+      "1 only",
+      "2 and 3 only"
+    ],
+    correctAnswer: "1 and 2 only"
+  },
+  {
+    id: 143,
+    year: 2022,
+    subject: "biology",
+    question: "There is an inherited condition in cats that leads to them having six toes rather than five toes on each paw.\n\nThe allele that causes six toes is dominant.\n\nThe pedigree diagram shows the inheritance of this condition in a family of cats. Three of the cats have been labelled.\n\nWhich of the following statements about this inheritance is/are correct?\n1 Cat P could be homozygous for the condition.\n2 Over two generations, 12 cats were produced in the cross-breeding.\n3 Breeding cat Q with cat R could produce 3 offspring, each with a different genotype.",
+    choices: [
+      "3 only",
+      "2 only",
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only"
+    ],
+    correctAnswer: "1 and 2 only"
+  },
+  {
+    id: 144,
+    year: 2022,
+    subject: "biology",
+    question: "The diagrams each show a section of the cell surface membrane to illustrate the fluid mosaic model.\n\nWhich diagram is most accurate?",
+    choices: [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    correctAnswer: "C"
+  },
+  {
+    id: 145,
+    question: "Which of the following changes occur during contraction of the atria in a healthy human heart?",
+    options: [
+      "row 5",
+      "row 2",
+      "row 3",
+      "row 4",
+      "row 1"
+    ]
+  },
+  {
+    id: 146,
+    question: "The diagram shows a glomerulus and part of a nephron in the kidney of a healthy human.\nWhich of the following cause(s) water to move from the glomerulus into the tubule?\n1. An increase in pressure caused by the left ventricle of the heart.\n2. The effect of blood proteins on the direction of osmosis.\n3. An increase in pressure of the liquid in the tubule.",
+    options: [
+      "1 only",
+      "2 only",
+      "3 only",
+      "1 and 2 only",
+      "2 and 3 only"
+    ]
+  },
+  {
+    id: 147,
+    question: "Drug Q reduces the release of vasopressin (ADH) into the bloodstream of a healthy human.\nWhich organ releases ADH into the blood, and what is the effect of drug Q on the concentration of urea in the urine?\n[Assume that the production of urea remains constant.]",
+    options: [
+      "row 4",
+      "row 2",
+      "row 3",
+      "row 1",
+      "row 5"
+    ]
+  },
+  {
+    id: 148,
+    question: "In the nervous system, which of the following pairs work in opposition to each other to control their target organs?",
+    options: [
+      "sympathetic and parasympathetic nervous systems",
+      "central and peripheral nervous systems",
+      "reflex and voluntary pathways",
+      "sensory and motor pathways",
+      "brain and spinal cord"
+    ]
+  },
+  {
+    id: 149,
+    question: "Which of the following acids is/are weak?\n1. H₂CO₃(aq)\n2. HCOOH(aq)\n3. HNO₃(aq)",
+    options: [
+      "1 and 2 only",
+      "1 only",
+      "2 only",
+      "3 only",
+      "2 and 3 only"
+    ]
+  },
+  {
+    id: 150,
+    question: "Which of the following particles has the same number of neutrons as the ⁷⁹₃₅Br⁻ ion?",
+    options: [
+      "⁷⁸₃₄Se",
+      "⁸¹₃₅Br²⁺",
+      "⁸¹₃₅Br⁻",
+      "⁸²₃₆Kr",
+      "¹⁰¹₄₄Ru⁺"
+    ]
+  },
+  {
+    id: 151,
+    question: "Equal volumes of liquids are mixed as the following pairs:\n1. heptane and hexane\n2. water and methanol\n3. hexane and water\nWhich of the pairs form(s) a homogeneous mixture?",
+    options: [
+      "1 and 2 only",
+      "1 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ]
+  },
+  {
+    id: 152,
+    question: "Consider the following general equation that describes one way of synthesising a particular type of BIOFUEL, represented by Y.\nX represents a neutral (uncharged) organic molecule involved in the reaction.\nWhich of the following statements about the reaction are correct?\n1. Addition of an enzyme is an essential condition.\n2. Y is an ester.\n3. X contains an alcohol group.",
+    options: [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "none of them",
+      "1, 2 and 3"
+    ]
+  },
+  {
+    id: 153,
+    question: "Which of the following substances in pure liquid form has/have hydrogen bonds between their molecules?",
+    options: [
+      "1 and 2 only",
+      "1 only",
+      "2 only",
+      "3 only",
+      "2 and 3 only"
+    ],
+    correctAnswer: "1 and 2 only",
+    subject: "Chemistry"
+  },
+  {
+    id: 154,
+    question: "In which of the following does the central atom share all of its outer shell electrons?",
+    options: [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "none of them"
+    ],
+    correctAnswer: "2 and 3 only",
+    subject: "Chemistry"
+  },
+  {
+    id: 155,
+    question: "In which of the following reactions does HCl act as a reducing agent?",
+    options: [
+      "MnO₂ + 4HCl → MnCl₂ + Cl₂ + 2H₂O",
+      "Zn + 2HCl → H₂ + ZnCl₂",
+      "Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O",
+      "NH₃ + HCl → NH₄Cl",
+      "Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O"
+    ],
+    correctAnswer: "MnO₂ + 4HCl → MnCl₂ + Cl₂ + 2H₂O",
+    subject: "Chemistry"
+  },
+  {
+    id: 156,
+    question: "Adding which of these substances, on its own, will increase the number of molecules of H₂S present at equilibrium?",
+    options: [
+      "1 and 3 only",
+      "1 only",
+      "2 only",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    correctAnswer: "1 and 3 only",
+    subject: "Chemistry"
+  },
+  {
+    id: 157,
+    question: "Which of the following equations is the SIMPLEST ionic equation for the reaction that occurs?",
+    options: [
+      "Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s)",
+      "2BaCl(aq) + Na₂SO₄(aq) → BaSO₄(s) + 2NaCl(aq)",
+      "BaCl₂(aq) + Na₂SO₄(aq) → BaSO₄(s) + 2NaCl(aq)",
+      "2Ba²⁺(aq) + SO₄²⁻(aq) → Ba₂SO₄(s)",
+      "Ba²⁺(aq) + 2Cl⁻(aq) + 2Na⁺(aq) + SO₄²⁻(aq) → BaSO₄(s) + 2Na⁺(aq) + 2Cl⁻(aq)"
+    ],
+    correctAnswer: "Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s)",
+    subject: "Chemistry"
+  },
+  {
+    id: 158,
+    question: "Which of the following separation techniques can be used to obtain liquid ethanol from an aqueous mixture of ethanol, ethanal and ethanoic acid?",
+    options: [
+      "2 only",
+      "1 only",
+      "3 only",
+      "1 and 2 only",
+      "1 and 3 only"
+    ],
+    correctAnswer: "2 only",
+    subject: "Chemistry"
+  },
+  {
+    id: 159,
+    question: "What is the relative atomic mass (Ar) of the metal?",
+    options: [
+      "40",
+      "24",
+      "56",
+      "96",
+      "112"
+    ],
+    correctAnswer: "40",
+    subject: "Chemistry"
+  },
+  {
+    id: 160,
+    question: "What is the pH of the HCl(aq) solution formed, at 25 °C?",
+    options: [
+      "3.0",
+      "2.0",
+      "0.01",
+      "4.0",
+      "1.0"
+    ],
+    correctAnswer: "1.0",
+    subject: "Chemistry"
+  },
+  {
+    id: 161,
+    question: "What is the shape and the bond angle for the PH₄⁺ ion?",
+    options: [
+      "row 1",
+      "row 2",
+      "row 3",
+      "row 4",
+      "row 5"
+    ],
+    correctAnswer: "row 1",
+    subject: "Chemistry"
+  },
+  {
+    id: 162,
+    question: "Which of the following organic compounds are structural isomers of each other?",
+    options: [
+      "2, 4 and 5 only",
+      "2 and 4 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 4 and 5 only"
+    ],
+    correctAnswer: "2, 4 and 5 only",
+    subject: "Chemistry"
+  },
+  {
+    id: 163,
+    question: "Which of the following lists the given elements in order of DECREASING first ionisation energies?",
+    options: [
+      "Be, Li, Na",
+      "Li, Be, Na",
+      "Li, Na, Be",
+      "Be, Na, Li",
+      "Na, Be, Li"
+    ],
+    correctAnswer: "Be, Li, Na",
+    subject: "Chemistry"
+  },
+  {
+    id: 164,
+    question: "Evaluate: ∛[((9 × 10⁴)² − 10⁸ + 1.2 × 10¹¹) ÷ (10⁻¹ − 9.8 × 10⁻²)]",
+    options: [
+      "40 000",
+      "400",
+      "8000",
+      "10 000",
+      "100 000"
+    ],
+    correctAnswer: "10 000",
+    subject: "Physics and Mathematics"
+  },
+  {
+    id: 165,
+    question: "A block sliding along a flat horizontal surface at an initial velocity of 2.0 m s⁻¹ experiences a constant resistive force of 4.0 N that brings it to rest in a distance of 2.0 m. What is the mass of the block?",
+    options: [
+      "4.0 kg",
+      "0.50 kg",
+      "2.0 kg",
+      "0.25 kg",
+      "8.0 kg"
+    ],
+    correctAnswer: "1.0 kg",
+    subject: "Physics and Mathematics"
+  },
+  {
+    id: 166,
+    question: "Find the area enclosed by the three lines: y = 0, y = 2x − 4, and y = 11 − x",
+    options: [
+      "27",
+      "3",
+      "22½",
+      "37½",
+      "39"
+    ],
+    correctAnswer: "22½",
+    subject: "Physics and Mathematics"
+  },
+  {
+    id: 167,
+    question: "A fixed mass of an ideal gas is compressed slowly so that its volume halves and its pressure doubles. Which of the following statements about the gas after this change is/are correct?\n\n1. The final temperature of the gas is the same as before the change.\n2. The final internal energy of the gas is the same as before the change.\n3. The final mean kinetic energy of the particles of the gas is the same as before the change.",
+    options: [
+      "1, 2 and 3",
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "none of them"
+    ],
+    correctAnswer: "none of them",
+    subject: "Physics and Mathematics"
+  },
+  {
+    id: 168,
+    question: "Evaluate (cube root of) ((9 × 10^4)^2 − 10^8 + 1.2 × 10^11) / (10^−1 − 9.8 × 10^−2)",
+    options: [
+      "40 000",
+      "400",
+      "8000",
+      "10 000",
+      "100 000"
+    ],
+    correctAnswer: "8000",
+    subject: "Physics and Mathematics"
+  },
+  {
+    id: 169,
+    question: "A block sliding along a flat horizontal surface at an initial velocity of 2.0 m/s experiences a constant resistive force of 4.0 N that brings it to rest in a distance of 2.0 m. What is the mass of the block?",
+    options: [
+      "4.0 kg",
+      "0.50 kg",
+      "2.0 kg",
+      "0.25 kg",
+      "8.0 kg"
+    ],
+    correctAnswer: "2.0 kg",
+    subject: "Physics and Mathematics"
+  },
+  {
+    id: 170,
+    question: "Find the area enclosed by the three lines: y = 0, y = 2x - 4, and y = 11 - x.",
+    options: [
+      "27",
+      "3",
+      "22.5",
+      "37.5",
+      "39"
+    ],
+    correctAnswer: "22.5",
+    subject: "Mathematics"
+  },
+  {
+    id: 171,
+    question: "A fixed mass of an ideal gas is compressed slowly so that its volume halves and its pressure doubles. Which of the following statements about the gas after this change is/are correct?",
+    options: [
+      "1, 2 and 3",
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "none of them"
+    ],
+    correctAnswer: "none of them",
+    subject: "Physics"
+  },
+  {
+    id: 172,
+    question: "Which of the following is a simplification of: (2x² − 9x − 18)/(x² − 6x) − (3x² + 8x − 3)/(x² + 3x)?",
+    options: [
+      "4/x − 1",
+      "2/x − 1",
+      "2 − 1/x",
+      "4/x − 2",
+      "4 − x"
+    ],
+    correctAnswer: "4/x − 1",
+    subject: "Mathematics"
+  },
+  {
+    id: 173,
+    question: "An 18 V battery and a 3.0 Ω resistor are connected in series with each other, and in series with a parallel arrangement of a 3.0 Ω resistor and a 6.0 Ω resistor. What is the current in the battery?",
+    options: [
+      "3.6 A",
+      "3.0 A",
+      "1.5 A",
+      "5.1 A",
+      "9.0 A"
+    ],
+    correctAnswer: "3.0 A",
+    subject: "Physics"
+  },
+  {
+    id: 174,
+    question: "The mean of five non-zero positive integers is 20. The median is 24. What is the maximum possible value for the largest number?",
+    options: [
+      "50",
+      "48",
+      "49",
+      "73",
+      "78"
+    ],
+    correctAnswer: "73",
+    subject: "Mathematics"
+  },
+  {
+    id: 175,
+    question: "Which other action, performed separately, produces a current in the same direction? (Initial action: inserting the N-pole of a magnet into the left-hand end of a coil)",
+    options: [
+      "inserting the S-pole of the magnet into the right-hand end of the coil",
+      "withdrawing the N-pole of the magnet from the left-hand end of the coil",
+      "inserting the S-pole of the magnet into the left-hand end of the coil",
+      "withdrawing the S-pole of the magnet from the right-hand end of the coil",
+      "inserting the N-pole of the magnet into the right-hand end of the coil"
+    ],
+    correctAnswer: "withdrawing the N-pole of the magnet from the left-hand end of the coil",
+    subject: "Physics"
+  },
+  {
+    id: 176,
+    question: "What is the value of θ° in the shaded sector of two concentric circles, where the radius of the larger circle is 50% greater than that of the smaller circle, total area of smaller circle is 36π cm² and area of shaded sector is 27π/8 cm²?",
+    options: [
+      "15",
+      "8 7/16",
+      "16 7/8",
+      "22 1/2",
+      "30"
+    ],
+    correctAnswer: "16 7/8",
+    subject: "Mathematics"
+  },
+  {
+    id: 177,
+    question: "The simple pendulum of a tall clock swings freely backwards and forwards so that it passes through the vertical position at 1.0 second intervals. Assuming the motion is simple harmonic, what is the length of the pendulum?",
+    options: [
+      "1.0 m",
+      "0.25 m",
+      "1.7 m",
+      "2.5 m",
+      "3.3 m"
+    ],
+    correctAnswer: "0.25 m",
+    subject: "Physics"
   }
 ];
 
@@ -1701,6 +2548,7 @@ const questionMeta = document.getElementById("question-meta");
 const answersList = document.getElementById("answers-list");
 const feedback = document.getElementById("feedback");
 const nextBtn = document.getElementById("next-btn");
+
 
 function shuffleArray(array) {
   return array.map(value => ({ value, sort: Math.random() }))
