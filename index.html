@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IMAT Practice Shuffler</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>IMAT Practice Shuffler</h1>
+    <nav>
+      <button id="mode-random">Random (All)</button>
+      <button id="mode-subject">Random (By Subject)</button>
+      <button id="mode-exam">Full Exam</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Subject Filter -->
+    <section id="subject-controls" class="mode-section">
+      <label for="subject-select">Choose a Subject:</label>
+      <select id="subject-select">
+        <option value="biology">Biology</option>
+        <option value="chemistry">Chemistry</option>
+        <option value="logic">Logic</option>
+        <option value="math">Math</option>
+        <option value="physics">Physics</option>
+        <option value="gk">General Knowledge</option>
+      </select>
+      <button id="get-subject-question">Start</button>
+    </section>
+
+    <!-- Full Exam Controls -->
+    <section id="exam-controls" class="mode-section">
+      <button id="start-full-exam">Start Full Exam</button>
+    </section>
+
+    <!-- Question Display Area -->
+    <section id="question-container">
+      <p id="question-text"></p>
+      <ul id="answers-list"></ul>
+      <p id="feedback"></p>
+      <button id="next-btn">Next</button>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
